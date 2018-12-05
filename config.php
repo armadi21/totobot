@@ -3,8 +3,7 @@
 //jangan ada sepasi
 $config = [
 
-
-  "ticket=sHp2r312otmCpnGns3mCqJhovNiBh5rOr9OBacCoetu8jYOgfpyukoLMhp2zdX2pkLC0z4plhNGwrYGxv8uVzq2jra6KZM3XjZSKo7-Ik2ubfrCUi4RzoQ&meid=60ffb51fe73a7bb982",
+"ticket=sHp2r312otmCpnGns3mCqJhovNiBh5rOr9OBacCoetu8jYOgfpyukoLMhp2zdX2pkLC0z4plhNGwrYGxv8uVzq2jra6KZM3XjZSKo7-Ik2ubfrCUi4RzoQ&meid=60ffb51fe73a7bb982",
 
 "ticket=sHp2r312otmCpnGns3mCqJhovNiBh3eUrq2OoLSod8uyjYaviayyk4_PfWLAnolnhI24y4qHh5a64Juxs7Wckq2jra6KZM3XjZSKo7-Ik2ubfrCUi4RzoQQ&meid=609424742ec916dacd",
 
